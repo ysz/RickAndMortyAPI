@@ -19,6 +19,4 @@ This project is a simple integration connector (client) for the RickAndMorty API
 Simply run the main script:
 
 ```bash
-`python main.py`
-or
-`python3 main.py`
+python3 main.py
