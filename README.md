@@ -12,7 +12,7 @@ This project is a simple integration connector (client) for the RickAndMorty API
 1. Clone this repository.
 2. Create a virtual environment: `python3 -m venv myenv`.
 3. Activate the virtual environment: `source myenv/bin/activate` (Linux/Mac) or `myenv\Scripts\activate` (Windows).
-4. Install the required packages: `pip install -r requirements.txt`.
+4. Install the required packages: `pip3 install -r requirements.txt`.
 
 ## Usage
 
