@@ -1,4 +1,4 @@
- # RickAndMorty Integration
+ # Rick And Morty API Integration
 
 This project is a simple integration connector (client) for the RickAndMorty API (https://rickandmortyapi.com/). It fetches data related to characters, locations, and episodes from the RickAndMorty API and performs specified tasks.
 
